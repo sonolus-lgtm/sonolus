@@ -1,0 +1,23 @@
+{
+  "name": "Chrissy Wake Up",
+  "artists": "stranger things",
+  "author": "the gregory brothers",
+  "rating": 8,
+  "engine": "sonolus.engine.tutorial",
+  "useSkin": "sonolus.skin.tutorial",
+  "useBackground": "sonolus.background.tutorial",
+  "useEffect": "sonolus.effect.tutorial",
+  "useParticle": "sonolus.particle.tutorial",
+  "bgm": {
+    "type": "Local",
+    "path": "music.mp3"
+  },
+  "cover": {
+    "type": "Local",
+    "path": "cover.jpg"
+  },
+  "data": {
+    "type": "Local",
+    "path": "chart.json"
+  }
+}
