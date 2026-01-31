@@ -1,0 +1,21 @@
+{
+  "entities": [
+    { "archetype": "Note", "data": { "time": 1.95, "lane": 2 } }, 
+    { "archetype": "Note", "data": { "time": 2.35, "lane": 3 } }, 
+    { "archetype": "Note", "data": { "time": 2.75, "lane": 2 } }, 
+    { "archetype": "Note", "data": { "time": 3.15, "lane": 3 } },
+
+    { "archetype": "Note", "data": { "time": 3.90, "lane": 1 } }, 
+    { "archetype": "Note", "data": { "time": 4.30, "lane": 4 } },
+
+    { "archetype": "Note", "data": { "time": 5.05, "lane": 2 } }, 
+    { "archetype": "Note", "data": { "time": 5.45, "lane": 3 } }, 
+    { "archetype": "Note", "data": { "time": 5.85, "lane": 2 } }, 
+    { "archetype": "Note", "data": { "time": 6.25, "lane": 3 } },
+
+    { "archetype": "Note", "data": { "time": 7.10, "lane": 1 } }, 
+    { "archetype": "Note", "data": { "time": 7.50, "lane": 2 } }, 
+    { "archetype": "Note", "data": { "time": 7.90, "lane": 3 } }, 
+    { "archetype": "Note", "data": { "time": 8.30, "lane": 4 } }
+  ]
+}
